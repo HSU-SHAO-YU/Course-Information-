@@ -1,4 +1,20 @@
-# Course-Information-
-Course Title: Data Structures Course Code: CS203A Semester: 11401 Credits: 3 Instructor: Yu-Feng Huang Course Time(Classroom): Monday 09:10–10:00 (R60104); Tuesday 15:10–17:00 (R1102) Contact: Yu-Feng Huang Teaching Assistant: To be announced Office Hours: Monday 14:00-16:00; Wednesday 14:00–16:00
-徐紹祐/1131436
-Repo description:這個儲存庫用來紀錄我在 CS203A 課程中學到的知識與程式碼
+# CS203A 課程儲存庫
+
+## 學生資訊
+- 姓名：徐紹祐
+- 學號：1131436
+
+## 儲存庫用途
+這個儲存庫用來紀錄我在 **CS203A 課程** 學到的內容，包括：
+- 上課筆記
+- 作業程式碼
+- 相關學習紀錄
+
+## 課程資訊
+- 課程名稱：CS203A  
+- 授課老師：黃老師  
+- 學期：2025 Fall  
+
+## 相關連結
+- [我的 GitHub Pages 首頁](https:hsu-shao-yu.github.io)
+- [課程官方文件](https://docs.github.com/en/get-started)
